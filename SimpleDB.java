@@ -1,11 +1,3 @@
-//===================================
-// Columbus State Community College
-// CSCI 2469 - Sprint Semester 2019
-// Assignment: Lab 9
-// Programmer: Carl Olson
-//===================================
-package edu.cscc.csci2469.lab9;
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
